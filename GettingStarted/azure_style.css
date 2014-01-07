@@ -9,7 +9,7 @@ body {
   text-rendering: optimizelegibility;
 }
 h1 {
-  font-size: 33px;
+  font-size: 36px;
   margin-bottom: 20px;
 }
 h1, h2, h3 {
@@ -36,7 +36,7 @@ p, ul {
 }
 a, a:link, a:visited {
   text-decoration: none;
-  color: rgb(74, 145, 172);
+  color: rgb(74, 146, 172);
 }
 b, strong {
   font-weight: bold;
